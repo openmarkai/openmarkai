@@ -1,4 +1,4 @@
-## Hi, I'm Marc 👋
+## Hi, I'm Kean 👋
 
 Founder of **[OpenMark](https://openmark.ai/ui/)** — an AI model benchmarking platform.
 
