@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Marc 👋
 
-<!--
-**openmarkai/openmarkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **[OpenMark](https://openmark.ai/ui/)** — an AI model benchmarking platform.
 
-Here are some ideas to get you started:
+### What OpenMark Does
+- 🧪 Benchmark **100+ LLMs** on your actual prompts and use cases
+- 💰 See **real API costs** and latency — not just synthetic scores
+- 📊 **Deterministic scoring** with stability metrics across multiple runs
+- ⚡ Compare GPT, Claude, Gemini, DeepSeek, Llama, Mistral & more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 **Try it free:** [openmark.ai](https://openmark.ai/ui/)
+
+### Links
+- 🌐 [openmark.ai](https://openmark.ai/ui/)
+- 🐦 [@OpenMarkAI](https://x.com/OpenMarkAI)
+- 📝 [Dev.to](https://dev.to/openmarkai)
